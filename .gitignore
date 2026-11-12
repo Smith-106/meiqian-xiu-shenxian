@@ -36,3 +36,7 @@ _gr.txt
 Thumbs.db
 desktop.ini
 .DS_Store
+
+# 重建时的自动备份
+*.bak-*
+_test_restore.db*

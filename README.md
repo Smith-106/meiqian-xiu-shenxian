@@ -29,11 +29,17 @@
 
 ```
 README.md
+SETUP.md                    新机器环境搭建（写作+质检 / 连 StoryMoss 一起）
 LICENSE
 .gitignore
 gate_report.py              全书质量门体检（任意目录）
+export_snapshot.py          从正库导出叙事元数据快照
+restore_db.py               从快照 + 正文重建 StoryMoss 数据库
 manuscript/                 新版 297 章，一章一文件
 novel/                      原版 631 章（txt + docx + 封面）
+data/
+├─ storymoss_snapshot.json  叙事元数据（人物 83、伏笔 36、时间线 255……）
+└─ schema.sql               建表语句 374 条
 writing/
 ├─ spec.md                  重写写作规约
 ├─ PROGRESS.md              逐轮进度台账
@@ -83,7 +89,7 @@ writing/
 
 ## 在别的机器上继续
 
-零依赖，只需 Python 3.8+（全部标准库）。
+完整步骤见 [SETUP.md](SETUP.md)。零依赖，只需 Python 3.8+（全部标准库）。
 
 ```bash
 git clone https://github.com/Smith-106/meiqian-xiu-shenxian
@@ -108,6 +114,21 @@ git push
 
 ```bash
 python gate_report.py manuscript --md out.md | grep "^256"
+```
+
+### 重建 StoryMoss 数据库
+
+```bash
+python restore_db.py --db "%APPDATA%\com.storymoss.app\cinema_ai.db" --force
+```
+
+会用 `data/storymoss_snapshot.json` + `manuscript/` 重建出一个含 297 章正文、
+83 个人物、29 条关系、36 条伏笔、255 条时间线的数据库。原库自动备份。
+
+元数据有变动时重新导出：
+
+```bash
+python export_snapshot.py
 ```
 
 ### 评审（需要 API Key）
