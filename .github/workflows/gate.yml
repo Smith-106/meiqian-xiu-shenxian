@@ -7,6 +7,9 @@ on:
       - "writing/chapters_v3/**"
       - "writing/sm_quality.py"
       - "gate_report.py"
+      - "export_snapshot.py"
+      - "restore_db.py"
+      - "data/**"
       - ".github/workflows/gate.yml"
   pull_request:
   workflow_dispatch:
