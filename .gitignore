@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# 数据库与备份（体积大且含运行时状态）
+*.db
+*.db-journal
+*.sqlite
+*.sqlite3
+backup_*/
+
+# 日志
+*.log
+*.zst
+*.jsonl
+
+# 凭据与登录态：绝对禁止提交
+.auth_state.json
+review_ext.py
+.env
+*.pem
+*.key
+
+# 评审原始输出（体积大，结论见 judge_rounds.md）
+judge_chapters*.json
+review_sample*.json
+review_ext_*.json
+
+# 系统文件
+Thumbs.db
+desktop.ini
+.DS_Store
