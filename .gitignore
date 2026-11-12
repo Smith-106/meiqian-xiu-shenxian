@@ -27,6 +27,11 @@ judge_chapters*.json
 review_sample*.json
 review_ext_*.json
 
+# 本地生成的报告（CI 每次重跑）
+gate_report.md
+v3_out.txt
+_gr.txt
+
 # 系统文件
 Thumbs.db
 desktop.ini

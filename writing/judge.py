@@ -3,7 +3,6 @@
 Usage: python judge.py <draft file> [--no-llm]
 """
 import sys, io, os, re, json
-sys.path.insert(0, r"C:\Users\niko\AppData\Local\Temp")
 sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sm_quality as Q
 import review_sample as RS

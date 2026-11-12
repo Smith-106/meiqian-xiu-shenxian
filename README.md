@@ -1,57 +1,124 @@
 # 你没钱修什么仙
 
-> 修真 · 官署 · 公文冷硬体长篇小说（私人存档，非公开发布）
+> 修真 · 官署 · 公文冷硬体长篇小说（私人存档）
 
 一个借调小吏在梓库、泊台、对销堂之间，用册、栏、押、版和规程处理"渡劫外包"的故事。
+
+---
+
+## 两个版本
+
+| 目录 | 章数 | 字数 | 说明 |
+|---|---:|---:|---|
+| `manuscript/` | **297** | 889,274 | 新版（当前版本）。第 256 章起由原书压缩重写 |
+| `novel/` | 631 | 1,981,372 | 原版完整稿（2026-10-28） |
+
+新版把原书第 258–631 章（374 章 / 1,207,967 字）压缩成 42 章（121,827 字），
+压缩比约 **9.9 : 1**。压缩的是重复的仪式流程，推进性事件按 `spec.md` 保留。
+
+`manuscript/` 的来源：
+
+- 第 1–255 章 ← 写作库 `scenes` 表（成文于 2026-10-18）
+- 第 256–297 章 ← `writing/chapters_v3/`（2026-10-30 之后的返修稿）
+
+标题行已统一为「第N章 标题」；第 2 章原缺标题行，按元数据补为「第2章 互撕」。
 
 ---
 
 ## 目录
 
 ```
-novel/
-├─ 你没钱修什么仙.txt     完整正文（631 章 / 1,981,372 字）
-├─ 你没钱修什么仙.docx    同上，Word 版，带分卷标题
-└─ cover.jpg              封面
-
+README.md
+LICENSE
+.gitignore
+gate_report.py              全书质量门体检（任意目录）
+manuscript/                 新版 297 章，一章一文件
+novel/                      原版 631 章（txt + docx + 封面）
 writing/
-├─ spec.md                重写写作规约（硬指标、红线、文风、流程）
-├─ PROGRESS.md            逐轮进度与缺口追踪
-├─ plan_v3.md             v3 逐章台账（每章已定事实、进度表）
-├─ HANDOFF.md             交接文件（现状、卡点、下一步）
-├─ judge_rounds.md        八轮评审数据汇总
-├─ chapter_map.json       42 章的字数/对白/评分索引
-├─ build_v3.py            离线门禁 + 发布脚本
-├─ sm_quality.py          离线文风质检（重建版，见下）
-├─ judge.py               单章评审
-├─ judge_chapters.py      全量评审
-├─ judge_fill.py          缺失章节补齐
-├─ review_sample.py       评审 prompt 与调用
-├─ review_ext.example.py  外部复审调用模板（密钥需自行填写）
-└─ chapters_v3/           42 章源文件（256–297，一章一文件）
+├─ spec.md                  重写写作规约
+├─ PROGRESS.md              逐轮进度台账
+├─ plan_v3.md               v3 逐章台账（每章已定事实）
+├─ HANDOFF.md               交接文件
+├─ judge_rounds.md          八轮评审数据汇总
+├─ chapter_map.json         42 章字数/对白/评分索引
+├─ build_v3.py              42 章门禁 + 发布
+├─ sm_quality.py            文风质检（重建版，见下）
+├─ judge.py                 单章评审
+├─ judge_chapters.py        全量评审
+├─ judge_fill.py            缺失章节补齐
+├─ review_sample.py         评审 prompt 与调用
+├─ review_ext.example.py    密钥占位模板
+└─ chapters_v3/             42 章源文件（256–297）
+.github/workflows/gate.yml  推送后自动跑质量门
 ```
 
 ---
 
-## 两个版本
+## 质量门
 
-| | 章数 | 字数 | 状态 |
-|---|---:|---:|---|
-| `novel/` 中的完整版 | 631 | 1,981,372 | 已完结原稿（2026-10-28） |
-| 重写版（第 256 章起压缩） | 297 | 918,170 | 1–255 定稿；256–297 返修中 |
+四种检查，标准一致：
 
-重写版把原书第 258–631 章（374 章 / 1,207,967 字）压缩成 42 章（121,827 字），
-压缩比约 **9.9 : 1**。压缩对象是重复的仪式流程，推进性事件按 `spec.md` 要求保留。
+| 项目 | 标准 |
+|---|---|
+| 字数 | 2,800 – 3,300（非空白字符） |
+| 对白占比 | 0.20 – 0.30（中文双引号内字数 / 全章字数） |
+| sm_quality | ≥ 95 |
+| 标题行 | 「第N章 标题」，N 与文件名前三位一致 |
+
+### 当前状态
+
+- `writing/chapters_v3/` 42 章：**42/42 全部通过**
+- `manuscript/` 297 章：**57/297 通过**
+  - 不达标项：对白 216 章、字数 191 章
+  - 第 1–255 章成文早于标准制定，问题是"话太少、篇幅不齐"，非文笔问题
+
+### 评审（另一套标准）
+
+离线门禁之外还有 LLM 评审，中性五维（可读性 / 人物 / 推进 / 重复 / 连贯）每项需 > 80。
+八轮全量评审均分 80.2–80.8，未达标。详见 `writing/judge_rounds.md`。
+
+原稿对照：原稿中性五维 16.4，新稿 66.8，成对盲比 30 胜 0 负。
 
 ---
 
-## 重写版当前状态
+## 在别的机器上继续
 
-- **离线门禁：42/42 全部通过**（字数 2,800–3,300、对白 0.20–0.30、`sm_quality` ≥95）
-- **评审：未达标**。八轮全量评审均分 80.2–80.8，单轮最多 2/42 章达到"五维全 >80"
-- 第 1–255 章未跑过此门禁（成文早于标准制定），实测 15/255 可通过
+零依赖，只需 Python 3.8+（全部标准库）。
 
-详见 `writing/HANDOFF.md` 与 `writing/judge_rounds.md`。
+```bash
+git clone https://github.com/Smith-106/meiqian-xiu-shenxian
+cd meiqian-xiu-shenxian
+
+# 全书体检
+python gate_report.py manuscript
+
+# 42 章重写稿门禁
+cd writing && python build_v3.py
+
+# 改稿后在仓库根目录
+python gate_report.py manuscript --md gate_report.md
+git commit -am "改 256 章对白"
+git push
+```
+
+推送后 GitHub Actions 会自动跑一遍，结果写在 Actions 页面的 Summary 里。
+`manuscript/` 或 `writing/chapters_v3/` 有变动才会触发。
+
+### 局部检查单章
+
+```bash
+python gate_report.py manuscript --md out.md | grep "^256"
+```
+
+### 评审（需要 API Key）
+
+`judge.py` / `judge_chapters.py` 依赖 `review_ext.py` 提供接口地址与密钥，
+该文件不入库。使用时：
+
+```bash
+cp writing/review_ext.example.py writing/review_ext.py
+# 编辑，填入自己的 KEY 与 URL
+```
 
 ---
 
@@ -72,5 +139,4 @@ writing/
 
 © 2026 Smith-106. 保留所有权利。
 
-本仓库为私有存档，仅供作者本人备份与版本管理。未经许可，不得复制、转载、
-分发或用于任何商业用途。详见 `LICENSE`。
+未经许可，不得复制、转载、分发或用于商业用途。详见 `LICENSE`。

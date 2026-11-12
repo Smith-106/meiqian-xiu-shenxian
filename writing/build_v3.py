@@ -5,7 +5,7 @@ python build_v3.py --publish  -> if all 42 pass, back up chapters\ once, copy v3
 Gates: 2800-3300 chars (non-whitespace), dialogue 0.20-0.30, sm_quality >= 95, title line '第N章 标题'.
 """
 import sys, io, os, re, json, glob, shutil
-sys.path.insert(0, r"C:\Users\niko\AppData\Local\Temp")
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
 import sm_quality as Q
 
 R = os.path.dirname(os.path.abspath(__file__))

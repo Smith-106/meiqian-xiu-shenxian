@@ -1,0 +1,50 @@
+name: 质量门
+
+on:
+  push:
+    paths:
+      - "manuscript/**"
+      - "writing/chapters_v3/**"
+      - "writing/sm_quality.py"
+      - "gate_report.py"
+      - ".github/workflows/gate.yml"
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  gate:
+    name: 全书体检 + 42 章门禁
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: 全书 297 章体检
+        run: |
+          python gate_report.py manuscript --md gate_report.md
+          {
+            echo "### 全书体检"
+            echo
+            cat gate_report.md
+          } >> "$GITHUB_STEP_SUMMARY"
+
+      - name: 42 章重写稿门禁
+        working-directory: writing
+        run: |
+          python build_v3.py | tee v3_out.txt
+          echo '### 42 章重写稿' >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          tail -n 1 v3_out.txt >> "$GITHUB_STEP_SUMMARY"
+          echo '```' >> "$GITHUB_STEP_SUMMARY"
+          grep -q "FAILING \[\]" v3_out.txt || { echo "::error::42 章门禁未通过"; exit 1; }
+
+      - name: 上传报告
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: gate-report
+          path: gate_report.md
+          if-no-files-found: warn
