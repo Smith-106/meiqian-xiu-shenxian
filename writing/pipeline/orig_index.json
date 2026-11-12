@@ -1,0 +1,2646 @@
+{
+ "backup": "C:\\Users\\niko\\storymoss_case\\backup_cinema_ai_20261028_063816_before_full_rewrite.db",
+ "total_scenes": 631,
+ "exported": 377,
+ "index": [
+  {
+   "seq": 255,
+   "title": "第255章 一道线",
+   "chars": 3119,
+   "dialogue": 0.062,
+   "chapter_id": "9fb17cf1-aa85-4213-9e59-165cbe71b906"
+  },
+  {
+   "seq": 256,
+   "title": "第256章 空两字",
+   "chars": 3430,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 257,
+   "title": "第257章 三栏空待",
+   "chars": 3228,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 258,
+   "title": "第258章 总版首墨",
+   "chars": 3520,
+   "dialogue": 0.089,
+   "chapter_id": null
+  },
+  {
+   "seq": 259,
+   "title": "第259章 底联转记",
+   "chars": 4209,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 260,
+   "title": "第260章 底联随核",
+   "chars": 3441,
+   "dialogue": 0.112,
+   "chapter_id": null
+  },
+  {
+   "seq": 261,
+   "title": "第261章 底联转记封存上报",
+   "chars": 4065,
+   "dialogue": 0.14,
+   "chapter_id": null
+  },
+  {
+   "seq": 262,
+   "title": "第262章 转记封存",
+   "chars": 3910,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 263,
+   "title": "第263章 转记封押",
+   "chars": 3151,
+   "dialogue": 0.129,
+   "chapter_id": null
+  },
+  {
+   "seq": 264,
+   "title": "第264章 底联转记封存入格",
+   "chars": 3407,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 265,
+   "title": "第265章 转记封存候对格",
+   "chars": 3124,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 266,
+   "title": "第266章 底联转记封押入格",
+   "chars": 3543,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 267,
+   "title": "第267章 一旬讫",
+   "chars": 2682,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 268,
+   "title": "第268章 候对先行",
+   "chars": 3205,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 269,
+   "title": "第269章 底联讫格重开",
+   "chars": 3104,
+   "dialogue": 0.12,
+   "chapter_id": null
+  },
+  {
+   "seq": 270,
+   "title": "第270章 底联归位",
+   "chars": 4014,
+   "dialogue": 0.126,
+   "chapter_id": null
+  },
+  {
+   "seq": 271,
+   "title": "第271章 堂期已定",
+   "chars": 2944,
+   "dialogue": 0.113,
+   "chapter_id": null
+  },
+  {
+   "seq": 272,
+   "title": "第272章 候对续封",
+   "chars": 3081,
+   "dialogue": 0.076,
+   "chapter_id": null
+  },
+  {
+   "seq": 273,
+   "title": "第273章 空栏待名",
+   "chars": 3304,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 274,
+   "title": "第274章 袋封栈转",
+   "chars": 3440,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 275,
+   "title": "第275章 栏外退迎",
+   "chars": 2938,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 276,
+   "title": "第276章 笔锋出处",
+   "chars": 3762,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 277,
+   "title": "第277章 墨干候名",
+   "chars": 3314,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 278,
+   "title": "第278章 空栏候名",
+   "chars": 3038,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 279,
+   "title": "第279章 名牒初到让半位",
+   "chars": 3257,
+   "dialogue": 0.126,
+   "chapter_id": null
+  },
+  {
+   "seq": 280,
+   "title": "第280章 核名比对",
+   "chars": 3106,
+   "dialogue": 0.147,
+   "chapter_id": null
+  },
+  {
+   "seq": 281,
+   "title": "第281章 压痕比锋",
+   "chars": 2579,
+   "dialogue": 0.117,
+   "chapter_id": null
+  },
+  {
+   "seq": 282,
+   "title": "第282章 摹纸半寸",
+   "chars": 3956,
+   "dialogue": 0.125,
+   "chapter_id": null
+  },
+  {
+   "seq": 283,
+   "title": "第283章 开堂验背",
+   "chars": 3677,
+   "dialogue": 0.155,
+   "chapter_id": null
+  },
+  {
+   "seq": 284,
+   "title": "第284章 缴联备查",
+   "chars": 2961,
+   "dialogue": 0.152,
+   "chapter_id": null
+  },
+  {
+   "seq": 285,
+   "title": "第285章 收目候添",
+   "chars": 2923,
+   "dialogue": 0.154,
+   "chapter_id": null
+  },
+  {
+   "seq": 286,
+   "title": "第286章 墨干退联候验",
+   "chars": 3647,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 287,
+   "title": "第287章 摹纸进案",
+   "chars": 3362,
+   "dialogue": 0.128,
+   "chapter_id": null
+  },
+  {
+   "seq": 288,
+   "title": "第288章 验背归押",
+   "chars": 3125,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 289,
+   "title": "第289章 空栏待填",
+   "chars": 2689,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 290,
+   "title": "第290章 册尾相续",
+   "chars": 3136,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 291,
+   "title": "第291章 认笔归押",
+   "chars": 2804,
+   "dialogue": 0.126,
+   "chapter_id": null
+  },
+  {
+   "seq": 292,
+   "title": "第292章 收押唱尾封袋",
+   "chars": 2850,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 293,
+   "title": "第293章 退灯听唱",
+   "chars": 3594,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 294,
+   "title": "第294章 填名示众",
+   "chars": 3364,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 295,
+   "title": "第295章 退线立栈口",
+   "chars": 3209,
+   "dialogue": 0.112,
+   "chapter_id": null
+  },
+  {
+   "seq": 296,
+   "title": "第296章 审讫封格",
+   "chars": 3097,
+   "dialogue": 0.113,
+   "chapter_id": null
+  },
+  {
+   "seq": 297,
+   "title": "第297章 存格授位归外",
+   "chars": 2891,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 298,
+   "title": "第298章 新格授位",
+   "chars": 3205,
+   "dialogue": 0.122,
+   "chapter_id": null
+  },
+  {
+   "seq": 299,
+   "title": "第299章 试锋落墨",
+   "chars": 2949,
+   "dialogue": 0.122,
+   "chapter_id": null
+  },
+  {
+   "seq": 300,
+   "title": "第300章 尾准合版",
+   "chars": 3303,
+   "dialogue": 0.118,
+   "chapter_id": null
+  },
+  {
+   "seq": 301,
+   "title": "第301章 首押试锋",
+   "chars": 3240,
+   "dialogue": 0.105,
+   "chapter_id": null
+  },
+  {
+   "seq": 302,
+   "title": "第302章 散堂归位",
+   "chars": 3026,
+   "dialogue": 0.119,
+   "chapter_id": null
+  },
+  {
+   "seq": 303,
+   "title": "第303章 线头验讫灯退槛外",
+   "chars": 3218,
+   "dialogue": 0.115,
+   "chapter_id": null
+  },
+  {
+   "seq": 304,
+   "title": "第304章 试锋入格",
+   "chars": 2699,
+   "dialogue": 0.111,
+   "chapter_id": null
+  },
+  {
+   "seq": 305,
+   "title": "第305章 首押合版守夜定卷",
+   "chars": 3825,
+   "dialogue": 0.112,
+   "chapter_id": null
+  },
+  {
+   "seq": 306,
+   "title": "第306章 旬满缴计",
+   "chars": 3679,
+   "dialogue": 0.125,
+   "chapter_id": null
+  },
+  {
+   "seq": 307,
+   "title": "第307章 三册归槽",
+   "chars": 2575,
+   "dialogue": 0.12,
+   "chapter_id": null
+  },
+  {
+   "seq": 308,
+   "title": "第308章 收灯合匣退栈守夜",
+   "chars": 2967,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 309,
+   "title": "第309章 核讫退道",
+   "chars": 2620,
+   "dialogue": 0.134,
+   "chapter_id": null
+  },
+  {
+   "seq": 310,
+   "title": "第310章 合封归库",
+   "chars": 3447,
+   "dialogue": 0.122,
+   "chapter_id": null
+  },
+  {
+   "seq": 311,
+   "title": "第311章 启晓候对",
+   "chars": 2971,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 312,
+   "title": "第312章 晓灯照牌",
+   "chars": 2651,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 313,
+   "title": "第313章 拂架点册",
+   "chars": 2662,
+   "dialogue": 0.144,
+   "chapter_id": null
+  },
+  {
+   "seq": 314,
+   "title": "第314章 封缝候计",
+   "chars": 2977,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 315,
+   "title": "第315章 正名入格",
+   "chars": 2901,
+   "dialogue": 0.153,
+   "chapter_id": null
+  },
+  {
+   "seq": 316,
+   "title": "第316章 试锋收边",
+   "chars": 3303,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 317,
+   "title": "第317章 案角检视",
+   "chars": 2882,
+   "dialogue": 0.079,
+   "chapter_id": null
+  },
+  {
+   "seq": 318,
+   "title": "第318章 压副候押",
+   "chars": 2996,
+   "dialogue": 0.152,
+   "chapter_id": null
+  },
+  {
+   "seq": 319,
+   "title": "第319章 掩门候计",
+   "chars": 3532,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 320,
+   "title": "第320章 散晓归常",
+   "chars": 3169,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 321,
+   "title": "第321章 日计过槛",
+   "chars": 2850,
+   "dialogue": 0.072,
+   "chapter_id": null
+  },
+  {
+   "seq": 322,
+   "title": "第322章 续页候线",
+   "chars": 2609,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 323,
+   "title": "第323章 首计起行",
+   "chars": 2516,
+   "dialogue": 0.143,
+   "chapter_id": null
+  },
+  {
+   "seq": 324,
+   "title": "第324章 槽号对牌",
+   "chars": 3778,
+   "dialogue": 0.146,
+   "chapter_id": null
+  },
+  {
+   "seq": 325,
+   "title": "第325章 验押入格",
+   "chars": 3713,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 326,
+   "title": "第326章 首计过槛",
+   "chars": 3203,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 327,
+   "title": "第327章 置计入架",
+   "chars": 3384,
+   "dialogue": 0.089,
+   "chapter_id": null
+  },
+  {
+   "seq": 328,
+   "title": "第328章 缝合散堂",
+   "chars": 2879,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 329,
+   "title": "第329章 压据收灯",
+   "chars": 3169,
+   "dialogue": 0.144,
+   "chapter_id": null
+  },
+  {
+   "seq": 330,
+   "title": "第330章 散堂交牌",
+   "chars": 3021,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 331,
+   "title": "第331章 栈口观礼",
+   "chars": 2604,
+   "dialogue": 0.097,
+   "chapter_id": null
+  },
+  {
+   "seq": 332,
+   "title": "第332章 牌匣栈守",
+   "chars": 3031,
+   "dialogue": 0.139,
+   "chapter_id": null
+  },
+  {
+   "seq": 333,
+   "title": "第333章 散堂复位",
+   "chars": 3064,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 334,
+   "title": "第334章 栈口守望",
+   "chars": 2787,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 335,
+   "title": "第335章 栈灯照路",
+   "chars": 3800,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 336,
+   "title": "第336章 栈口定守",
+   "chars": 3786,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 337,
+   "title": "第337章 栏外首位",
+   "chars": 3004,
+   "dialogue": 0.08,
+   "chapter_id": null
+  },
+  {
+   "seq": 338,
+   "title": "第338章 栏外听规",
+   "chars": 2836,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 339,
+   "title": "第339章 压灯守栈",
+   "chars": 3324,
+   "dialogue": 0.144,
+   "chapter_id": null
+  },
+  {
+   "seq": 340,
+   "title": "第340章 栈口独守",
+   "chars": 3585,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 341,
+   "title": "第341章 栏外听规",
+   "chars": 2737,
+   "dialogue": 0.105,
+   "chapter_id": null
+  },
+  {
+   "seq": 342,
+   "title": "第342章 栏外首位",
+   "chars": 2647,
+   "dialogue": 0.086,
+   "chapter_id": null
+  },
+  {
+   "seq": 343,
+   "title": "第343章 验尾三看",
+   "chars": 2922,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 344,
+   "title": "第344章 扶门捧计",
+   "chars": 3057,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 345,
+   "title": "第345章 合卷落锁",
+   "chars": 4055,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 346,
+   "title": "第346章 考唱声沉",
+   "chars": 3664,
+   "dialogue": 0.147,
+   "chapter_id": null
+  },
+  {
+   "seq": 347,
+   "title": "第347章 揖谢退半步",
+   "chars": 3560,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 348,
+   "title": "第348章 十日并案候封",
+   "chars": 3009,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 349,
+   "title": "第349章 贴封归库",
+   "chars": 3734,
+   "dialogue": 0.079,
+   "chapter_id": null
+  },
+  {
+   "seq": 350,
+   "title": "第350章 合卷守晓",
+   "chars": 3726,
+   "dialogue": 0.134,
+   "chapter_id": null
+  },
+  {
+   "seq": 351,
+   "title": "第351章 验锁开晓",
+   "chars": 4010,
+   "dialogue": 0.126,
+   "chapter_id": null
+  },
+  {
+   "seq": 352,
+   "title": "第352章 拭尘照缝",
+   "chars": 3393,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 353,
+   "title": "第353章 归格跪定",
+   "chars": 2871,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 354,
+   "title": "第354章 点唱正名",
+   "chars": 3466,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 355,
+   "title": "第355章 定栈压线",
+   "chars": 3820,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 356,
+   "title": "第356章 栏外开课",
+   "chars": 2849,
+   "dialogue": 0.139,
+   "chapter_id": null
+  },
+  {
+   "seq": 357,
+   "title": "第357章 领匣首落压据",
+   "chars": 3531,
+   "dialogue": 0.134,
+   "chapter_id": null
+  },
+  {
+   "seq": 358,
+   "title": "第358章 压据验纸",
+   "chars": 3037,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 359,
+   "title": "第359章 首落止笔",
+   "chars": 2950,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 360,
+   "title": "第360章 退灯悬笔",
+   "chars": 3435,
+   "dialogue": 0.137,
+   "chapter_id": null
+  },
+  {
+   "seq": 361,
+   "title": "第361章 悬指候核",
+   "chars": 3948,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 362,
+   "title": "第362章 对底悬笔补压",
+   "chars": 3183,
+   "dialogue": 0.13,
+   "chapter_id": null
+  },
+  {
+   "seq": 363,
+   "title": "第363章 听唱悬笔",
+   "chars": 3699,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 364,
+   "title": "第364章 遥授止笔",
+   "chars": 3362,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 365,
+   "title": "第365章 悬笔候令",
+   "chars": 3555,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 366,
+   "title": "第366章 补压副联",
+   "chars": 2787,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 367,
+   "title": "第367章 重落定笔",
+   "chars": 3621,
+   "dialogue": 0.139,
+   "chapter_id": null
+  },
+  {
+   "seq": 368,
+   "title": "第368章 过槛示钩",
+   "chars": 2532,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 369,
+   "title": "第369章 对纹让灯",
+   "chars": 3214,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 370,
+   "title": "第370章 唱收候封",
+   "chars": 3036,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 371,
+   "title": "第371章 续授第四课",
+   "chars": 3160,
+   "dialogue": 0.129,
+   "chapter_id": null
+  },
+  {
+   "seq": 372,
+   "title": "第372章 临帖交更",
+   "chars": 2783,
+   "dialogue": 0.119,
+   "chapter_id": null
+  },
+  {
+   "seq": 373,
+   "title": "第373章 示钩定腕",
+   "chars": 2799,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 374,
+   "title": "第374章 摹钩习定",
+   "chars": 3766,
+   "dialogue": 0.13,
+   "chapter_id": null
+  },
+  {
+   "seq": 375,
+   "title": "第375章 收帖让线",
+   "chars": 3448,
+   "dialogue": 0.119,
+   "chapter_id": null
+  },
+  {
+   "seq": 376,
+   "title": "第376章 交更点卯",
+   "chars": 3456,
+   "dialogue": 0.122,
+   "chapter_id": null
+  },
+  {
+   "seq": 377,
+   "title": "第377章 验线交牌",
+   "chars": 3229,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 378,
+   "title": "第378章 退栏候印",
+   "chars": 3223,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 379,
+   "title": "第379章 压线观礼",
+   "chars": 2971,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 380,
+   "title": "第380章 栏侧呈匣",
+   "chars": 3336,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 381,
+   "title": "第381章 旬计并案",
+   "chars": 3131,
+   "dialogue": 0.13,
+   "chapter_id": null
+  },
+  {
+   "seq": 382,
+   "title": "第382章 验尾合卷",
+   "chars": 3548,
+   "dialogue": 0.135,
+   "chapter_id": null
+  },
+  {
+   "seq": 383,
+   "title": "第383章 贴封加印",
+   "chars": 2962,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 384,
+   "title": "第384章 覆印守封候名",
+   "chars": 3033,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 385,
+   "title": "第385章 捧匣退栈",
+   "chars": 3657,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 386,
+   "title": "第386章 退栈守晓",
+   "chars": 2541,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 387,
+   "title": "第387章 合卷唱收",
+   "chars": 2825,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 388,
+   "title": "第388章 填名入梓守晓",
+   "chars": 3612,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 389,
+   "title": "第389章 封卷入梓",
+   "chars": 3529,
+   "dialogue": 0.082,
+   "chapter_id": null
+  },
+  {
+   "seq": 390,
+   "title": "第390章 落锁守晓",
+   "chars": 2543,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 391,
+   "title": "第391章 开栈展册",
+   "chars": 4220,
+   "dialogue": 0.15,
+   "chapter_id": null
+  },
+  {
+   "seq": 392,
+   "title": "第392章 拭尘添油",
+   "chars": 2970,
+   "dialogue": 0.081,
+   "chapter_id": null
+  },
+  {
+   "seq": 393,
+   "title": "第393章 悬笔候墨",
+   "chars": 3031,
+   "dialogue": 0.107,
+   "chapter_id": null
+  },
+  {
+   "seq": 394,
+   "title": "第394章 填名墨收",
+   "chars": 3604,
+   "dialogue": 0.153,
+   "chapter_id": null
+  },
+  {
+   "seq": 395,
+   "title": "第395章 压线让位",
+   "chars": 3875,
+   "dialogue": 0.137,
+   "chapter_id": null
+  },
+  {
+   "seq": 396,
+   "title": "第396章 栏外授钩",
+   "chars": 2757,
+   "dialogue": 0.192,
+   "chapter_id": null
+  },
+  {
+   "seq": 397,
+   "title": "第397章 首件递牒",
+   "chars": 3781,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 398,
+   "title": "第398章 验缝悬笔",
+   "chars": 3451,
+   "dialogue": 0.147,
+   "chapter_id": null
+  },
+  {
+   "seq": 399,
+   "title": "第399章 压据落墨",
+   "chars": 3088,
+   "dialogue": 0.145,
+   "chapter_id": null
+  },
+  {
+   "seq": 400,
+   "title": "第400章 合匣守晓",
+   "chars": 3098,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 401,
+   "title": "第401章 守晓巡缝",
+   "chars": 2821,
+   "dialogue": 0.107,
+   "chapter_id": null
+  },
+  {
+   "seq": 402,
+   "title": "第402章 栈口换值",
+   "chars": 2700,
+   "dialogue": 0.117,
+   "chapter_id": null
+  },
+  {
+   "seq": 403,
+   "title": "第403章 夜牒候名",
+   "chars": 3434,
+   "dialogue": 0.157,
+   "chapter_id": null
+  },
+  {
+   "seq": 404,
+   "title": "第404章 落栏让灯",
+   "chars": 3045,
+   "dialogue": 0.137,
+   "chapter_id": null
+  },
+  {
+   "seq": 405,
+   "title": "第405章 授步让线",
+   "chars": 3603,
+   "dialogue": 0.14,
+   "chapter_id": null
+  },
+  {
+   "seq": 406,
+   "title": "第406章 交牌验卯",
+   "chars": 3230,
+   "dialogue": 0.113,
+   "chapter_id": null
+  },
+  {
+   "seq": 407,
+   "title": "第407章 退阶守缝",
+   "chars": 3439,
+   "dialogue": 0.128,
+   "chapter_id": null
+  },
+  {
+   "seq": 408,
+   "title": "第408章 夜牒候名",
+   "chars": 3637,
+   "dialogue": 0.122,
+   "chapter_id": null
+  },
+  {
+   "seq": 409,
+   "title": "第409章 补空封匣守缝交更",
+   "chars": 2799,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 410,
+   "title": "第410章 封匣守缝",
+   "chars": 3560,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 411,
+   "title": "第411章 梓封守缝",
+   "chars": 2709,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 412,
+   "title": "第412章 退阶守缝",
+   "chars": 3107,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 413,
+   "title": "第413章 晓验展页",
+   "chars": 3353,
+   "dialogue": 0.149,
+   "chapter_id": null
+  },
+  {
+   "seq": 414,
+   "title": "第414章 合缝让验",
+   "chars": 2954,
+   "dialogue": 0.167,
+   "chapter_id": null
+  },
+  {
+   "seq": 415,
+   "title": "第415章 灯下守尘",
+   "chars": 3136,
+   "dialogue": 0.145,
+   "chapter_id": null
+  },
+  {
+   "seq": 416,
+   "title": "第416章 合卷候收",
+   "chars": 3577,
+   "dialogue": 0.149,
+   "chapter_id": null
+  },
+  {
+   "seq": 417,
+   "title": "第417章 压线验销",
+   "chars": 3076,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 418,
+   "title": "第418章 收钩藏影",
+   "chars": 2630,
+   "dialogue": 0.119,
+   "chapter_id": null
+  },
+  {
+   "seq": 419,
+   "title": "第419章 钥转半圈",
+   "chars": 3354,
+   "dialogue": 0.151,
+   "chapter_id": null
+  },
+  {
+   "seq": 420,
+   "title": "第420章 合册候卷",
+   "chars": 2983,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 421,
+   "title": "第421章 匣让缝栈守线",
+   "chars": 3164,
+   "dialogue": 0.173,
+   "chapter_id": null
+  },
+  {
+   "seq": 422,
+   "title": "第422章 半步候架",
+   "chars": 3028,
+   "dialogue": 0.15,
+   "chapter_id": null
+  },
+  {
+   "seq": 423,
+   "title": "第423章 退槛交更",
+   "chars": 2853,
+   "dialogue": 0.123,
+   "chapter_id": null
+  },
+  {
+   "seq": 424,
+   "title": "第424章 转钥退线",
+   "chars": 2758,
+   "dialogue": 0.112,
+   "chapter_id": null
+  },
+  {
+   "seq": 425,
+   "title": "第425章 退守候晓",
+   "chars": 3427,
+   "dialogue": 0.114,
+   "chapter_id": null
+  },
+  {
+   "seq": 426,
+   "title": "第426章 退验守晓",
+   "chars": 2901,
+   "dialogue": 0.114,
+   "chapter_id": null
+  },
+  {
+   "seq": 427,
+   "title": "第427章 栈口守晓",
+   "chars": 3871,
+   "dialogue": 0.114,
+   "chapter_id": null
+  },
+  {
+   "seq": 428,
+   "title": "第428章 交更守晓",
+   "chars": 3128,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 429,
+   "title": "第429章 灯细守缝",
+   "chars": 4222,
+   "dialogue": 0.118,
+   "chapter_id": null
+  },
+  {
+   "seq": 430,
+   "title": "第430章 合梓守晓",
+   "chars": 3797,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 431,
+   "title": "第431章 晓验开缝",
+   "chars": 2519,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 432,
+   "title": "第432章 揭封补格销卯",
+   "chars": 2603,
+   "dialogue": 0.145,
+   "chapter_id": null
+  },
+  {
+   "seq": 433,
+   "title": "第433章 开匣验版",
+   "chars": 2627,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 434,
+   "title": "第434章 让口补格",
+   "chars": 3273,
+   "dialogue": 0.13,
+   "chapter_id": null
+  },
+  {
+   "seq": 435,
+   "title": "第435章 压据封匣",
+   "chars": 2885,
+   "dialogue": 0.069,
+   "chapter_id": null
+  },
+  {
+   "seq": 436,
+   "title": "第436章 销联归侧",
+   "chars": 3410,
+   "dialogue": 0.123,
+   "chapter_id": null
+  },
+  {
+   "seq": 437,
+   "title": "第437章 首牒折叠引俟归位",
+   "chars": 2686,
+   "dialogue": 0.099,
+   "chapter_id": null
+  },
+  {
+   "seq": 438,
+   "title": "第438章 守缝听漏",
+   "chars": 2606,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 439,
+   "title": "第439章 悬笔守案",
+   "chars": 2589,
+   "dialogue": 0.12,
+   "chapter_id": null
+  },
+  {
+   "seq": 440,
+   "title": "第440章 封匣补名",
+   "chars": 2954,
+   "dialogue": 0.064,
+   "chapter_id": null
+  },
+  {
+   "seq": 441,
+   "title": "第441章 捧册进庭",
+   "chars": 2820,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 442,
+   "title": "第442章 压据让验",
+   "chars": 3101,
+   "dialogue": 0.106,
+   "chapter_id": null
+  },
+  {
+   "seq": 443,
+   "title": "第443章 补名唱讫",
+   "chars": 3600,
+   "dialogue": 0.125,
+   "chapter_id": null
+  },
+  {
+   "seq": 444,
+   "title": "第444章 独笔过录",
+   "chars": 2984,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 445,
+   "title": "第445章 唱录归档",
+   "chars": 2793,
+   "dialogue": 0.118,
+   "chapter_id": null
+  },
+  {
+   "seq": 446,
+   "title": "第446章 守夜交牌",
+   "chars": 2613,
+   "dialogue": 0.149,
+   "chapter_id": null
+  },
+  {
+   "seq": 447,
+   "title": "第447章 呈请议去留",
+   "chars": 2851,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 448,
+   "title": "第448章 核栈籍守期",
+   "chars": 3253,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 449,
+   "title": "第449章 暂留候交",
+   "chars": 2548,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 450,
+   "title": "第450章 压据候墨",
+   "chars": 3067,
+   "dialogue": 0.112,
+   "chapter_id": null
+  },
+  {
+   "seq": 451,
+   "title": "第451章 试浆",
+   "chars": 3102,
+   "dialogue": 0.072,
+   "chapter_id": null
+  },
+  {
+   "seq": 452,
+   "title": "第452章 中线对缝",
+   "chars": 2563,
+   "dialogue": 0.157,
+   "chapter_id": null
+  },
+  {
+   "seq": 453,
+   "title": "第453章 封缝锁簧栈口守",
+   "chars": 3294,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 454,
+   "title": "第454章 落锁守栈",
+   "chars": 3450,
+   "dialogue": 0.154,
+   "chapter_id": null
+  },
+  {
+   "seq": 455,
+   "title": "第455章 簧落槽定",
+   "chars": 3970,
+   "dialogue": 0.143,
+   "chapter_id": null
+  },
+  {
+   "seq": 456,
+   "title": "第456章 栈口交值",
+   "chars": 3901,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 457,
+   "title": "第457章 交牌守晓",
+   "chars": 3499,
+   "dialogue": 0.147,
+   "chapter_id": null
+  },
+  {
+   "seq": 458,
+   "title": "第458章 末夜听漏",
+   "chars": 3397,
+   "dialogue": 0.159,
+   "chapter_id": null
+  },
+  {
+   "seq": 459,
+   "title": "第459章 灯收尘伏",
+   "chars": 2896,
+   "dialogue": 0.156,
+   "chapter_id": null
+  },
+  {
+   "seq": 460,
+   "title": "第460章 格合归砚",
+   "chars": 3646,
+   "dialogue": 0.16,
+   "chapter_id": null
+  },
+  {
+   "seq": 461,
+   "title": "第461章 合梓小验",
+   "chars": 2702,
+   "dialogue": 0.115,
+   "chapter_id": null
+  },
+  {
+   "seq": 462,
+   "title": "第462章 唱牒对册",
+   "chars": 2565,
+   "dialogue": 0.157,
+   "chapter_id": null
+  },
+  {
+   "seq": 463,
+   "title": "第463章 唱录合尾",
+   "chars": 3391,
+   "dialogue": 0.16,
+   "chapter_id": null
+  },
+  {
+   "seq": 464,
+   "title": "第464章 封浆守侧",
+   "chars": 3547,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 465,
+   "title": "第465章 合匣守晓",
+   "chars": 3505,
+   "dialogue": 0.159,
+   "chapter_id": null
+  },
+  {
+   "seq": 466,
+   "title": "第466章 合鼻悬腕守晓",
+   "chars": 3589,
+   "dialogue": 0.163,
+   "chapter_id": null
+  },
+  {
+   "seq": 467,
+   "title": "第467章 落锁退半",
+   "chars": 3808,
+   "dialogue": 0.15,
+   "chapter_id": null
+  },
+  {
+   "seq": 468,
+   "title": "第468章 验牌守口",
+   "chars": 3047,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 469,
+   "title": "第469章 离栈守晓",
+   "chars": 3077,
+   "dialogue": 0.161,
+   "chapter_id": null
+  },
+  {
+   "seq": 470,
+   "title": "第470章 合匣守晓",
+   "chars": 3639,
+   "dialogue": 0.143,
+   "chapter_id": null
+  },
+  {
+   "seq": 471,
+   "title": "第471章 贴缝候墨",
+   "chars": 4276,
+   "dialogue": 0.147,
+   "chapter_id": null
+  },
+  {
+   "seq": 472,
+   "title": "第472章 拆匣续尾",
+   "chars": 2901,
+   "dialogue": 0.161,
+   "chapter_id": null
+  },
+  {
+   "seq": 473,
+   "title": "第473章 底联点存",
+   "chars": 4031,
+   "dialogue": 0.155,
+   "chapter_id": null
+  },
+  {
+   "seq": 474,
+   "title": "第474章 抱册候墨",
+   "chars": 4204,
+   "dialogue": 0.155,
+   "chapter_id": null
+  },
+  {
+   "seq": 475,
+   "title": "第475章 验栈对钥",
+   "chars": 4033,
+   "dialogue": 0.155,
+   "chapter_id": null
+  },
+  {
+   "seq": 476,
+   "title": "第476章 对销就位",
+   "chars": 3370,
+   "dialogue": 0.089,
+   "chapter_id": null
+  },
+  {
+   "seq": 477,
+   "title": "第477章 贴线守验",
+   "chars": 3563,
+   "dialogue": 0.146,
+   "chapter_id": null
+  },
+  {
+   "seq": 478,
+   "title": "第478章 续验落号",
+   "chars": 4222,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 479,
+   "title": "第479章 十二墨课",
+   "chars": 4078,
+   "dialogue": 0.092,
+   "chapter_id": null
+  },
+  {
+   "seq": 480,
+   "title": "第480章 旬内归户",
+   "chars": 3885,
+   "dialogue": 0.08,
+   "chapter_id": null
+  },
+  {
+   "seq": 481,
+   "title": "第481章 捧册过槛",
+   "chars": 3677,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 482,
+   "title": "第482章 进半候笔",
+   "chars": 3693,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 483,
+   "title": "第483章 次旬连计",
+   "chars": 3727,
+   "dialogue": 0.164,
+   "chapter_id": null
+  },
+  {
+   "seq": 484,
+   "title": "第484章 托匣贴边",
+   "chars": 3779,
+   "dialogue": 0.165,
+   "chapter_id": null
+  },
+  {
+   "seq": 485,
+   "title": "第485章 垂袖守灯",
+   "chars": 3743,
+   "dialogue": 0.167,
+   "chapter_id": null
+  },
+  {
+   "seq": 486,
+   "title": "第486章 半步贴线",
+   "chars": 3734,
+   "dialogue": 0.153,
+   "chapter_id": null
+  },
+  {
+   "seq": 487,
+   "title": "第487章 悬腕三寸",
+   "chars": 3607,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 488,
+   "title": "第488章 止线候章",
+   "chars": 3686,
+   "dialogue": 0.162,
+   "chapter_id": null
+  },
+  {
+   "seq": 489,
+   "title": "第489章 次旬贴边",
+   "chars": 3778,
+   "dialogue": 0.155,
+   "chapter_id": null
+  },
+  {
+   "seq": 490,
+   "title": "第490章 封缝合匣",
+   "chars": 3641,
+   "dialogue": 0.157,
+   "chapter_id": null
+  },
+  {
+   "seq": 491,
+   "title": "第491章 退半听命",
+   "chars": 3755,
+   "dialogue": 0.083,
+   "chapter_id": null
+  },
+  {
+   "seq": 492,
+   "title": "第492章 灯影候验",
+   "chars": 3129,
+   "dialogue": 0.066,
+   "chapter_id": null
+  },
+  {
+   "seq": 493,
+   "title": "第493章 止线候章",
+   "chars": 2980,
+   "dialogue": 0.087,
+   "chapter_id": null
+  },
+  {
+   "seq": 494,
+   "title": "第494章 贴线守口",
+   "chars": 3712,
+   "dialogue": 0.165,
+   "chapter_id": null
+  },
+  {
+   "seq": 495,
+   "title": "第495章 合匣验序",
+   "chars": 3984,
+   "dialogue": 0.114,
+   "chapter_id": null
+  },
+  {
+   "seq": 496,
+   "title": "第496章 录平声定",
+   "chars": 3858,
+   "dialogue": 0.084,
+   "chapter_id": null
+  },
+  {
+   "seq": 497,
+   "title": "第497章 贴案候对",
+   "chars": 4238,
+   "dialogue": 0.092,
+   "chapter_id": null
+  },
+  {
+   "seq": 498,
+   "title": "第498章 尘伏候照",
+   "chars": 3329,
+   "dialogue": 0.086,
+   "chapter_id": null
+  },
+  {
+   "seq": 499,
+   "title": "第499章 连旬候合",
+   "chars": 3253,
+   "dialogue": 0.088,
+   "chapter_id": null
+  },
+  {
+   "seq": 500,
+   "title": "第500章 锁号入册",
+   "chars": 3647,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 501,
+   "title": "第501章 退十贴线",
+   "chars": 3454,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 502,
+   "title": "第502章 离栈归雾",
+   "chars": 4001,
+   "dialogue": 0.162,
+   "chapter_id": null
+  },
+  {
+   "seq": 503,
+   "title": "第503章 连旬封固",
+   "chars": 3486,
+   "dialogue": 0.066,
+   "chapter_id": null
+  },
+  {
+   "seq": 504,
+   "title": "第504章 连旬锁定",
+   "chars": 3506,
+   "dialogue": 0.072,
+   "chapter_id": null
+  },
+  {
+   "seq": 505,
+   "title": "第505章 连旬守晓",
+   "chars": 2866,
+   "dialogue": 0.068,
+   "chapter_id": null
+  },
+  {
+   "seq": 506,
+   "title": "第506章 十步守晓",
+   "chars": 4007,
+   "dialogue": 0.066,
+   "chapter_id": null
+  },
+  {
+   "seq": 507,
+   "title": "第507章 再离归雾",
+   "chars": 3406,
+   "dialogue": 0.075,
+   "chapter_id": null
+  },
+  {
+   "seq": 508,
+   "title": "第508章 止线守定",
+   "chars": 4093,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 509,
+   "title": "第509章 浆干退阶",
+   "chars": 3578,
+   "dialogue": 0.07,
+   "chapter_id": null
+  },
+  {
+   "seq": 510,
+   "title": "第510章 贴封收束",
+   "chars": 3679,
+   "dialogue": 0.153,
+   "chapter_id": null
+  },
+  {
+   "seq": 511,
+   "title": "第511章 封缝守定",
+   "chars": 3464,
+   "dialogue": 0.076,
+   "chapter_id": null
+  },
+  {
+   "seq": 512,
+   "title": "第512章 核号尾续",
+   "chars": 3753,
+   "dialogue": 0.154,
+   "chapter_id": null
+  },
+  {
+   "seq": 513,
+   "title": "第513章 纸伏半退",
+   "chars": 4135,
+   "dialogue": 0.139,
+   "chapter_id": null
+  },
+  {
+   "seq": 514,
+   "title": "第514章 独笔就位",
+   "chars": 3949,
+   "dialogue": 0.152,
+   "chapter_id": null
+  },
+  {
+   "seq": 515,
+   "title": "第515章 底清转记",
+   "chars": 3059,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 516,
+   "title": "第516章 滞纳入户",
+   "chars": 3597,
+   "dialogue": 0.08,
+   "chapter_id": null
+  },
+  {
+   "seq": 517,
+   "title": "第517章 圈光止线",
+   "chars": 3136,
+   "dialogue": 0.134,
+   "chapter_id": null
+  },
+  {
+   "seq": 518,
+   "title": "第518章 首格候墨",
+   "chars": 2640,
+   "dialogue": 0.15,
+   "chapter_id": null
+  },
+  {
+   "seq": 519,
+   "title": "第519章 空栏候墨",
+   "chars": 4178,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 520,
+   "title": "第520章 候墨守线",
+   "chars": 3863,
+   "dialogue": 0.075,
+   "chapter_id": null
+  },
+  {
+   "seq": 521,
+   "title": "第521章 初合贴线",
+   "chars": 2811,
+   "dialogue": 0.073,
+   "chapter_id": null
+  },
+  {
+   "seq": 522,
+   "title": "第522章 底联对清",
+   "chars": 3831,
+   "dialogue": 0.072,
+   "chapter_id": null
+  },
+  {
+   "seq": 523,
+   "title": "第523章 大差过半",
+   "chars": 4262,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 524,
+   "title": "第524章 空栏守匣",
+   "chars": 3198,
+   "dialogue": 0.075,
+   "chapter_id": null
+  },
+  {
+   "seq": 525,
+   "title": "第525章 初验合梓",
+   "chars": 3226,
+   "dialogue": 0.078,
+   "chapter_id": null
+  },
+  {
+   "seq": 526,
+   "title": "第526章 守栈退寸",
+   "chars": 3055,
+   "dialogue": 0.086,
+   "chapter_id": null
+  },
+  {
+   "seq": 527,
+   "title": "第527章 名栏离线",
+   "chars": 2565,
+   "dialogue": 0.075,
+   "chapter_id": null
+  },
+  {
+   "seq": 528,
+   "title": "第528章 口号朝外",
+   "chars": 3865,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 529,
+   "title": "第529章 封缝如故",
+   "chars": 3916,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 530,
+   "title": "第530章 守晓让阶",
+   "chars": 3845,
+   "dialogue": 0.153,
+   "chapter_id": null
+  },
+  {
+   "seq": 531,
+   "title": "第531章 退守侧",
+   "chars": 3695,
+   "dialogue": 0.156,
+   "chapter_id": null
+  },
+  {
+   "seq": 532,
+   "title": "第532章 栈口授例",
+   "chars": 3646,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 533,
+   "title": "第533章 守口已讫",
+   "chars": 3647,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 534,
+   "title": "第534章 止线候立",
+   "chars": 2614,
+   "dialogue": 0.179,
+   "chapter_id": null
+  },
+  {
+   "seq": 535,
+   "title": "第535章 收押候课",
+   "chars": 3699,
+   "dialogue": 0.156,
+   "chapter_id": null
+  },
+  {
+   "seq": 536,
+   "title": "第536章 俟编就席",
+   "chars": 2956,
+   "dialogue": 0.065,
+   "chapter_id": null
+  },
+  {
+   "seq": 537,
+   "title": "第537章 栈口旧例",
+   "chars": 3707,
+   "dialogue": 0.087,
+   "chapter_id": null
+  },
+  {
+   "seq": 538,
+   "title": "第538章 守栈课授",
+   "chars": 4350,
+   "dialogue": 0.066,
+   "chapter_id": null
+  },
+  {
+   "seq": 539,
+   "title": "第539章 滞纳转记",
+   "chars": 4035,
+   "dialogue": 0.074,
+   "chapter_id": null
+  },
+  {
+   "seq": 540,
+   "title": "第540章 空栏候名",
+   "chars": 4536,
+   "dialogue": 0.145,
+   "chapter_id": null
+  },
+  {
+   "seq": 541,
+   "title": "第541章 十六压据开课",
+   "chars": 3043,
+   "dialogue": 0.11,
+   "chapter_id": null
+  },
+  {
+   "seq": 542,
+   "title": "第542章 课页平案",
+   "chars": 2971,
+   "dialogue": 0.093,
+   "chapter_id": null
+  },
+  {
+   "seq": 543,
+   "title": "第543章 五课核讫",
+   "chars": 2690,
+   "dialogue": 0.076,
+   "chapter_id": null
+  },
+  {
+   "seq": 544,
+   "title": "第544章 滞纳空栏",
+   "chars": 2938,
+   "dialogue": 0.069,
+   "chapter_id": null
+  },
+  {
+   "seq": 545,
+   "title": "第545章 空栏候名",
+   "chars": 3028,
+   "dialogue": 0.079,
+   "chapter_id": null
+  },
+  {
+   "seq": 546,
+   "title": "第546章 封匣守晓",
+   "chars": 4273,
+   "dialogue": 0.081,
+   "chapter_id": null
+  },
+  {
+   "seq": 547,
+   "title": "第547章 守晓定卷",
+   "chars": 3878,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 548,
+   "title": "第548章 讫合守晓",
+   "chars": 4722,
+   "dialogue": 0.147,
+   "chapter_id": null
+  },
+  {
+   "seq": 549,
+   "title": "第549章 十贴守晓",
+   "chars": 4641,
+   "dialogue": 0.147,
+   "chapter_id": null
+  },
+  {
+   "seq": 550,
+   "title": "第550章 迎晨定卷",
+   "chars": 4583,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 551,
+   "title": "第551章 晨光核牌",
+   "chars": 3618,
+   "dialogue": 0.143,
+   "chapter_id": null
+  },
+  {
+   "seq": 552,
+   "title": "第552章 雾贴朝外",
+   "chars": 3068,
+   "dialogue": 0.176,
+   "chapter_id": null
+  },
+  {
+   "seq": 553,
+   "title": "第553章 守侧原砖",
+   "chars": 3959,
+   "dialogue": 0.152,
+   "chapter_id": null
+  },
+  {
+   "seq": 554,
+   "title": "第554章 线里已讫",
+   "chars": 3897,
+   "dialogue": 0.145,
+   "chapter_id": null
+  },
+  {
+   "seq": 555,
+   "title": "第555章 定晨位",
+   "chars": 4783,
+   "dialogue": 0.068,
+   "chapter_id": null
+  },
+  {
+   "seq": 556,
+   "title": "第556章 空牒候接",
+   "chars": 4017,
+   "dialogue": 0.146,
+   "chapter_id": null
+  },
+  {
+   "seq": 557,
+   "title": "第557章 候封半步",
+   "chars": 3551,
+   "dialogue": 0.068,
+   "chapter_id": null
+  },
+  {
+   "seq": 558,
+   "title": "第558章 半步接名",
+   "chars": 3376,
+   "dialogue": 0.078,
+   "chapter_id": null
+  },
+  {
+   "seq": 559,
+   "title": "第559章 纸边候验",
+   "chars": 3247,
+   "dialogue": 0.133,
+   "chapter_id": null
+  },
+  {
+   "seq": 560,
+   "title": "第560章 定晨入联",
+   "chars": 3961,
+   "dialogue": 0.139,
+   "chapter_id": null
+  },
+  {
+   "seq": 561,
+   "title": "第561章 候名至格",
+   "chars": 3880,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 562,
+   "title": "第562章 案侧半步",
+   "chars": 4028,
+   "dialogue": 0.152,
+   "chapter_id": null
+  },
+  {
+   "seq": 563,
+   "title": "第563章 执笔候落",
+   "chars": 4028,
+   "dialogue": 0.152,
+   "chapter_id": null
+  },
+  {
+   "seq": 564,
+   "title": "第564章 牌面明示",
+   "chars": 3695,
+   "dialogue": 0.156,
+   "chapter_id": null
+  },
+  {
+   "seq": 565,
+   "title": "第565章 底联入案",
+   "chars": 3537,
+   "dialogue": 0.142,
+   "chapter_id": null
+  },
+  {
+   "seq": 566,
+   "title": "第566章 匣沿半步",
+   "chars": 3642,
+   "dialogue": 0.132,
+   "chapter_id": null
+  },
+  {
+   "seq": 567,
+   "title": "第567章 压据落墨",
+   "chars": 3849,
+   "dialogue": 0.118,
+   "chapter_id": null
+  },
+  {
+   "seq": 568,
+   "title": "第568章 空栏候墨",
+   "chars": 3069,
+   "dialogue": 0.129,
+   "chapter_id": null
+  },
+  {
+   "seq": 569,
+   "title": "第569章 核栏让光",
+   "chars": 2654,
+   "dialogue": 0.136,
+   "chapter_id": null
+  },
+  {
+   "seq": 570,
+   "title": "第570章 阶外三寸",
+   "chars": 4429,
+   "dialogue": 0.103,
+   "chapter_id": null
+  },
+  {
+   "seq": 571,
+   "title": "第571章 停写原处",
+   "chars": 3772,
+   "dialogue": 0.153,
+   "chapter_id": null
+  },
+  {
+   "seq": 572,
+   "title": "第572章 核墨入格",
+   "chars": 3594,
+   "dialogue": 0.134,
+   "chapter_id": null
+  },
+  {
+   "seq": 573,
+   "title": "第573章 墨干守侧",
+   "chars": 3881,
+   "dialogue": 0.127,
+   "chapter_id": null
+  },
+  {
+   "seq": 574,
+   "title": "第574章 尾号封合",
+   "chars": 2657,
+   "dialogue": 0.154,
+   "chapter_id": null
+  },
+  {
+   "seq": 575,
+   "title": "第575章 封册示旬",
+   "chars": 3278,
+   "dialogue": 0.154,
+   "chapter_id": null
+  },
+  {
+   "seq": 576,
+   "title": "第576章 半步应请",
+   "chars": 3978,
+   "dialogue": 0.154,
+   "chapter_id": null
+  },
+  {
+   "seq": 577,
+   "title": "第577章 半步让课",
+   "chars": 3649,
+   "dialogue": 0.158,
+   "chapter_id": null
+  },
+  {
+   "seq": 578,
+   "title": "第578章 廿一入栈",
+   "chars": 4197,
+   "dialogue": 0.146,
+   "chapter_id": null
+  },
+  {
+   "seq": 579,
+   "title": "第579章 让出联位",
+   "chars": 3839,
+   "dialogue": 0.163,
+   "chapter_id": null
+  },
+  {
+   "seq": 580,
+   "title": "第580章 新旬示计",
+   "chars": 3607,
+   "dialogue": 0.123,
+   "chapter_id": null
+  },
+  {
+   "seq": 581,
+   "title": "第581章 门侧核牌",
+   "chars": 2820,
+   "dialogue": 0.083,
+   "chapter_id": null
+  },
+  {
+   "seq": 582,
+   "title": "第582章 半步守定",
+   "chars": 4440,
+   "dialogue": 0.103,
+   "chapter_id": null
+  },
+  {
+   "seq": 583,
+   "title": "第583章 复封匣角",
+   "chars": 3646,
+   "dialogue": 0.121,
+   "chapter_id": null
+  },
+  {
+   "seq": 584,
+   "title": "第584章 联位让出",
+   "chars": 3241,
+   "dialogue": 0.064,
+   "chapter_id": null
+  },
+  {
+   "seq": 585,
+   "title": "第585章 门侧候代",
+   "chars": 2695,
+   "dialogue": 0.063,
+   "chapter_id": null
+  },
+  {
+   "seq": 586,
+   "title": "第586章 守栈核牌",
+   "chars": 2731,
+   "dialogue": 0.062,
+   "chapter_id": null
+  },
+  {
+   "seq": 587,
+   "title": "第587章 匣身不挪",
+   "chars": 4050,
+   "dialogue": 0.067,
+   "chapter_id": null
+  },
+  {
+   "seq": 588,
+   "title": "第588章 合梓复封验浆",
+   "chars": 3133,
+   "dialogue": 0.07,
+   "chapter_id": null
+  },
+  {
+   "seq": 589,
+   "title": "第589章 十贴迎验",
+   "chars": 4053,
+   "dialogue": 0.131,
+   "chapter_id": null
+  },
+  {
+   "seq": 590,
+   "title": "第590章 合卷出栈",
+   "chars": 4126,
+   "dialogue": 0.091,
+   "chapter_id": null
+  },
+  {
+   "seq": 591,
+   "title": "第591章 守侧砖缝",
+   "chars": 3558,
+   "dialogue": 0.138,
+   "chapter_id": null
+  },
+  {
+   "seq": 592,
+   "title": "第592章 核牌退守",
+   "chars": 4175,
+   "dialogue": 0.074,
+   "chapter_id": null
+  },
+  {
+   "seq": 593,
+   "title": "第593章 格空两字",
+   "chars": 3111,
+   "dialogue": 0.062,
+   "chapter_id": null
+  },
+  {
+   "seq": 594,
+   "title": "第594章 角号相续",
+   "chars": 3742,
+   "dialogue": 0.066,
+   "chapter_id": null
+  },
+  {
+   "seq": 595,
+   "title": "第595章 门砖止步",
+   "chars": 4292,
+   "dialogue": 0.067,
+   "chapter_id": null
+  },
+  {
+   "seq": 596,
+   "title": "第596章 贰字到案",
+   "chars": 3784,
+   "dialogue": 0.13,
+   "chapter_id": null
+  },
+  {
+   "seq": 597,
+   "title": "第597章 压据候笔",
+   "chars": 2928,
+   "dialogue": 0.089,
+   "chapter_id": null
+  },
+  {
+   "seq": 598,
+   "title": "第598章 上格填墨",
+   "chars": 4254,
+   "dialogue": 0.141,
+   "chapter_id": null
+  },
+  {
+   "seq": 599,
+   "title": "第599章 验面",
+   "chars": 4035,
+   "dialogue": 0.148,
+   "chapter_id": null
+  },
+  {
+   "seq": 600,
+   "title": "第600章 十贴落栏",
+   "chars": 3786,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 601,
+   "title": "第601章 唱名到案",
+   "chars": 3780,
+   "dialogue": 0.124,
+   "chapter_id": null
+  },
+  {
+   "seq": 602,
+   "title": "第602章 上格核签",
+   "chars": 4187,
+   "dialogue": 0.109,
+   "chapter_id": null
+  },
+  {
+   "seq": 603,
+   "title": "第603章 上格贰字",
+   "chars": 3710,
+   "dialogue": 0.091,
+   "chapter_id": null
+  },
+  {
+   "seq": 604,
+   "title": "第604章 墨不漫边",
+   "chars": 3817,
+   "dialogue": 0.092,
+   "chapter_id": null
+  },
+  {
+   "seq": 605,
+   "title": "第605章 压据候代",
+   "chars": 3397,
+   "dialogue": 0.069,
+   "chapter_id": null
+  },
+  {
+   "seq": 606,
+   "title": "第606章 墨锋不渗",
+   "chars": 3602,
+   "dialogue": 0.083,
+   "chapter_id": null
+  },
+  {
+   "seq": 607,
+   "title": "第607章 影定踏实",
+   "chars": 4155,
+   "dialogue": 0.066,
+   "chapter_id": null
+  },
+  {
+   "seq": 608,
+   "title": "第608章 复压影定",
+   "chars": 4090,
+   "dialogue": 0.102,
+   "chapter_id": null
+  },
+  {
+   "seq": 609,
+   "title": "第609章 泊牒候验",
+   "chars": 3026,
+   "dialogue": 0.09,
+   "chapter_id": null
+  },
+  {
+   "seq": 610,
+   "title": "第610章 合验回守",
+   "chars": 3145,
+   "dialogue": 0.082,
+   "chapter_id": null
+  },
+  {
+   "seq": 611,
+   "title": "第611章 底联远置",
+   "chars": 2633,
+   "dialogue": 0.094,
+   "chapter_id": null
+  },
+  {
+   "seq": 612,
+   "title": "第612章 转记留户",
+   "chars": 3433,
+   "dialogue": 0.087,
+   "chapter_id": null
+  },
+  {
+   "seq": 613,
+   "title": "第613章 压据对销",
+   "chars": 2781,
+   "dialogue": 0.102,
+   "chapter_id": null
+  },
+  {
+   "seq": 614,
+   "title": "第614章 卯十九滞纳",
+   "chars": 3089,
+   "dialogue": 0.097,
+   "chapter_id": null
+  },
+  {
+   "seq": 615,
+   "title": "第615章 新旧分开",
+   "chars": 2810,
+   "dialogue": 0.096,
+   "chapter_id": null
+  },
+  {
+   "seq": 616,
+   "title": "第616章 廿二新课",
+   "chars": 3328,
+   "dialogue": 0.102,
+   "chapter_id": null
+  },
+  {
+   "seq": 617,
+   "title": "第617章 老值出栈",
+   "chars": 3052,
+   "dialogue": 0.106,
+   "chapter_id": null
+  },
+  {
+   "seq": 618,
+   "title": "第618章 空栏受光",
+   "chars": 2779,
+   "dialogue": 0.102,
+   "chapter_id": null
+  },
+  {
+   "seq": 619,
+   "title": "第619章 副联先压",
+   "chars": 3035,
+   "dialogue": 0.099,
+   "chapter_id": null
+  },
+  {
+   "seq": 620,
+   "title": "第620章 第一笔候记",
+   "chars": 2925,
+   "dialogue": 0.104,
+   "chapter_id": null
+  },
+  {
+   "seq": 621,
+   "title": "第621章 封角影定",
+   "chars": 2694,
+   "dialogue": 0.1,
+   "chapter_id": null
+  },
+  {
+   "seq": 622,
+   "title": "第622章 线里已定",
+   "chars": 2894,
+   "dialogue": 0.108,
+   "chapter_id": null
+  },
+  {
+   "seq": 623,
+   "title": "第623章 六事同验",
+   "chars": 2932,
+   "dialogue": 0.102,
+   "chapter_id": null
+  },
+  {
+   "seq": 624,
+   "title": "第624章 新旧合卷",
+   "chars": 2880,
+   "dialogue": 0.103,
+   "chapter_id": null
+  },
+  {
+   "seq": 625,
+   "title": "第625章 骑缝可对",
+   "chars": 3091,
+   "dialogue": 0.109,
+   "chapter_id": null
+  },
+  {
+   "seq": 626,
+   "title": "第626章 送验面核",
+   "chars": 3112,
+   "dialogue": 0.109,
+   "chapter_id": null
+  },
+  {
+   "seq": 627,
+   "title": "第627章 出栈迎旬",
+   "chars": 2905,
+   "dialogue": 0.105,
+   "chapter_id": null
+  },
+  {
+   "seq": 628,
+   "title": "第628章 卷尾封面",
+   "chars": 2970,
+   "dialogue": 0.11,
+   "chapter_id": null
+  },
+  {
+   "seq": 629,
+   "title": "第629章 卷影收线",
+   "chars": 2557,
+   "dialogue": 0.111,
+   "chapter_id": null
+  },
+  {
+   "seq": 630,
+   "title": "第630章 俟编入格",
+   "chars": 2931,
+   "dialogue": 0.109,
+   "chapter_id": null
+  },
+  {
+   "seq": 631,
+   "title": "第631章 廿二落墨",
+   "chars": 2959,
+   "dialogue": 0.11,
+   "chapter_id": null
+  }
+ ]
+}

@@ -1,0 +1,6 @@
+ch256 铁律五维 orig=96.6 new=97.2 | 中性五维 orig=23.4 new=56.0 | 成对 正序胜=new 反序胜=new
+ch257 铁律五维 orig=97.6 new=96.8 | 中性五维 orig=15.6 new=48.0 | 成对 正序胜=new 反序胜=new
+ch300 铁律五维 orig=96.8 new=97.4 | 中性五维 orig=17.0 new=50.4 | 成对 正序胜=new 反序胜=new
+ch450 铁律五维 orig=97.6 new=97.2 | 中性五维 orig=13.6 new=52.6 | 成对 正序胜=new 反序胜=new
+ch631 铁律五维 orig=97.2 new=96.8 | 中性五维 orig=7.6 new=53.6 | 成对 正序胜=new 反序胜=new
+AVG 铁律五维 orig=97.2 new=97.1 | 中性五维 orig=15.4 new=52.1 | 成对票数 {'orig': 0, 'new': 10, 'tie': 0}

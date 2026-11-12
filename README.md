@@ -54,7 +54,8 @@ writing/
 ├─ judge_fill.py            缺失章节补齐
 ├─ review_sample.py         评审 prompt 与调用
 ├─ review_ext.example.py    密钥占位模板
-└─ chapters_v3/             42 章源文件（256–297）
+├─ chapters_v3/             42 章源文件（256–297）
+└─ pipeline/                原始流水线脚本与中间产物（见其 README）
 .github/workflows/gate.yml  推送后自动跑质量门
 ```
 

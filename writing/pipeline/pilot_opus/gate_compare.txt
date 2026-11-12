@@ -1,0 +1,6 @@
+ch256 orig score=100 chars=3430 issues=0 | new score=100 chars=2895 issues=0
+ch257 orig score=100 chars=3228 issues=0 | new score=100 chars=2848 issues=0
+ch300 orig score=100 chars=3303 issues=0 | new score=100 chars=3248 issues=0
+ch450 orig score=100 chars=3067 issues=0 | new score=100 chars=2892 issues=0
+ch631 orig score=100 chars=2959 issues=0 | new score=100 chars=2792 issues=0
+AVG orig=100.0 new=100.0

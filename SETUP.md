@@ -37,6 +37,18 @@ git push                                  # CI 自动再跑一遍
 python gate_report.py manuscript | grep "^256"
 ```
 
+### 重跑压缩流水线（可选）
+
+`writing/pipeline/` 里是当时把 374 章压成 42 章的脚本，路径写死，先修正：
+
+```bash
+cd writing/pipeline
+python patch_paths.py --apply
+python assemble.py            # draft/ → chapters/，42 章
+```
+
+从 `draft/` 往后的每一步都能重跑；`draft/` 本身的生成没有脚本（见 `writing/pipeline/README.md`）。
+
 ### 评审（可选，需要 API Key）
 
 ```bash

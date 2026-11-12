@@ -1,0 +1,252 @@
+{
+ "chapters": {
+  "256": {
+   "orig": {
+    "label": "Y",
+    "chars": 3430,
+    "score": 100,
+    "issues": [],
+    "m": {
+     "avg_sent": 16.53804347826087,
+     "short": 0.22282608695652173,
+     "long": 0.33695652173913043,
+     "dialogue": 0.1314868804664723,
+     "avg_para": 19.920731707317074,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.0,
+     "aphorism": false,
+     "head": 0.10869565217391304,
+     "n_sent": 184,
+     "chars": 3430
+    }
+   },
+   "new": {
+    "label": "X",
+    "chars": 2264,
+    "score": 86,
+    "issues": [
+     {
+      "dim": "对白占比"
+     }
+    ],
+    "m": {
+     "avg_sent": 16.298387096774192,
+     "short": 0.3387096774193548,
+     "long": 0.18548387096774194,
+     "dialogue": 0.054328621908127206,
+     "avg_para": 39.94444444444444,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.4416961130742049,
+     "aphorism": false,
+     "head": 0.11290322580645161,
+     "n_sent": 124,
+     "chars": 2264
+    }
+   }
+  },
+  "257": {
+   "orig": {
+    "label": "Y",
+    "chars": 3228,
+    "score": 100,
+    "issues": [],
+    "m": {
+     "avg_sent": 16.408045977011493,
+     "short": 0.26436781609195403,
+     "long": 0.28735632183908044,
+     "dialogue": 0.13599752168525403,
+     "avg_para": 19.18125,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.0,
+     "aphorism": false,
+     "head": 0.20114942528735633,
+     "n_sent": 174,
+     "chars": 3228
+    }
+   },
+   "new": {
+    "label": "X",
+    "chars": 1968,
+    "score": 100,
+    "issues": [],
+    "m": {
+     "avg_sent": 14.308333333333334,
+     "short": 0.25833333333333336,
+     "long": 0.08333333333333333,
+     "dialogue": 0.0858739837398374,
+     "avg_para": 31.372881355932204,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.0,
+     "aphorism": false,
+     "head": 0.14166666666666666,
+     "n_sent": 120,
+     "chars": 1968
+    }
+   }
+  },
+  "300": {
+   "orig": {
+    "label": "Y",
+    "chars": 3303,
+    "score": 100,
+    "issues": [],
+    "m": {
+     "avg_sent": 17.21142857142857,
+     "short": 0.2342857142857143,
+     "long": 0.33714285714285713,
+     "dialogue": 0.11807447774750227,
+     "avg_para": 41.35897435897436,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.0,
+     "aphorism": false,
+     "head": 0.13714285714285715,
+     "n_sent": 175,
+     "chars": 3303
+    }
+   },
+   "new": {
+    "label": "X",
+    "chars": 2470,
+    "score": 86,
+    "issues": [
+     {
+      "dim": "对白占比"
+     }
+    ],
+    "m": {
+     "avg_sent": 15.539007092198581,
+     "short": 0.2765957446808511,
+     "long": 0.12056737588652482,
+     "dialogue": 0.03603238866396761,
+     "avg_para": 36.01538461538462,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.0,
+     "aphorism": false,
+     "head": 0.09929078014184398,
+     "n_sent": 141,
+     "chars": 2470
+    }
+   }
+  },
+  "450": {
+   "orig": {
+    "label": "X",
+    "chars": 3067,
+    "score": 100,
+    "issues": [],
+    "m": {
+     "avg_sent": 15.411111111111111,
+     "short": 0.4222222222222222,
+     "long": 0.26666666666666666,
+     "dialogue": 0.11150961851972611,
+     "avg_para": 25.912280701754387,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.0,
+     "aphorism": false,
+     "head": 0.05555555555555555,
+     "n_sent": 180,
+     "chars": 3067
+    }
+   },
+   "new": {
+    "label": "Y",
+    "chars": 1865,
+    "score": 100,
+    "issues": [],
+    "m": {
+     "avg_sent": 12.912,
+     "short": 0.48,
+     "long": 0.104,
+     "dialogue": 0.06756032171581769,
+     "avg_para": 30.17241379310345,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.5361930294906166,
+     "aphorism": false,
+     "head": 0.088,
+     "n_sent": 125,
+     "chars": 1865
+    }
+   }
+  },
+  "631": {
+   "orig": {
+    "label": "Y",
+    "chars": 2959,
+    "score": 100,
+    "issues": [],
+    "m": {
+     "avg_sent": 12.79126213592233,
+     "short": 0.2912621359223301,
+     "long": 0.0,
+     "dialogue": 0.11017235552551538,
+     "avg_para": 47.35,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.0,
+     "aphorism": false,
+     "head": 0.05339805825242718,
+     "n_sent": 206,
+     "chars": 2959
+    }
+   },
+   "new": {
+    "label": "X",
+    "chars": 1770,
+    "score": 86,
+    "issues": [
+     {
+      "dim": "对白占比"
+     }
+    ],
+    "m": {
+     "avg_sent": 13.628318584070797,
+     "short": 0.3805309734513274,
+     "long": 0.08849557522123894,
+     "dialogue": 0.0519774011299435,
+     "avg_para": 30.2,
+     "emotion": 0.0,
+     "severe": [],
+     "mild": 0.5649717514124294,
+     "aphorism": false,
+     "head": 0.09734513274336283,
+     "n_sent": 113,
+     "chars": 1770
+    }
+   }
+  }
+ },
+ "blind_map": {
+  "256": {
+   "new": "X",
+   "orig": "Y"
+  },
+  "257": {
+   "new": "X",
+   "orig": "Y"
+  },
+  "300": {
+   "new": "X",
+   "orig": "Y"
+  },
+  "450": {
+   "orig": "X",
+   "new": "Y"
+  },
+  "631": {
+   "new": "X",
+   "orig": "Y"
+  }
+ },
+ "avg": {
+  "orig": 100.0,
+  "new": 91.6
+ }
+}
